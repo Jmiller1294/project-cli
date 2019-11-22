@@ -6,3 +6,5 @@ module Project
     # Your code goes here...
   end
 end
+
+"Hello world"
